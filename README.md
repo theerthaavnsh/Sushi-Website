@@ -47,9 +47,10 @@ footer: Contains the website footer.<br><p>
 -Google Fonts: Importing and applying custom fonts to the text.<br><P>
   
   <h2>5. JavaScript Functionality</h2>
-The JavaScript file (script.js) provides additional functionality to the sushi website. The main functionality is achieved by initializing the AOS library to enable scroll-triggered animations. Here's an overview of the JavaScript code:
-  window.addEventListener("DOMContentLoaded", () => {...}): Ensures the JavaScript code runs after the HTML document has loaded.
--AOS.init(): Initializes the AOS library, enabling scroll-triggered animations.<br>
+The JavaScript file (script.js) provides additional functionality to the sushi website. The main functionality is achieved by initializing the AOS library to enable scroll-triggered animations. <br>
+  Here's an overview of the JavaScript code:
+ -window.addEventListener("DOMContentLoaded", () => {...}): Ensures the JavaScript code runs after the HTML document has loaded.<br>
+ AOS.init(): Initializes the AOS library, enabling scroll-triggered animations.<br>
 -Configuration options can be customized to modify animation effects and durations.<br>
 -Additional JavaScript code can be added to enhance website functionality, such as form validation, dynamic content updates, or interaction with server-side APIs.<br>
 
