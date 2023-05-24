@@ -15,9 +15,9 @@
   <h2> 1. Installation </h2>
 To use the sushi website locally, follow these steps:
 
-1.Clone the repository or download the source code files.
-2.Open the project directory.
-3.Start a local development server or simply open the index.html file in a web browser.
+1.Clone the repository or download the source code files.<br>
+2.Open the project directory.<br>
+3.Start a local development server or simply open the index.html file in a web browser.<br>
   
   <h2>2. Usage</h2>
 Once the sushi website is running, you can navigate through different sections of the website, view the sushi menu, and experience the custom animations triggered by scrolling.
