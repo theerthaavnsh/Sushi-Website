@@ -48,7 +48,7 @@ footer: Contains the website footer.<br><p>
   
   <h2>5. JavaScript Functionality</h2>
 The JavaScript file (script.js) provides additional functionality to the sushi website. The main functionality is achieved by initializing the AOS library to enable scroll-triggered animations. <br>
-  Here's an overview of the JavaScript code:
+  Here's an overview of the JavaScript code:<br>
  -window.addEventListener("DOMContentLoaded", () => {...}): Ensures the JavaScript code runs after the HTML document has loaded.<br>
  AOS.init(): Initializes the AOS library, enabling scroll-triggered animations.<br>
 -Configuration options can be customized to modify animation effects and durations.<br>
