@@ -25,16 +25,16 @@ Once the sushi website is running, you can navigate through different sections o
   <h2>3. HTML Structure</h2>
 <p>The HTML structure of the sushi website is organized into several sections, including a header, main content, and footer. Here is a brief overview of the key HTML elements used:
 
-<!DOCTYPE html>: HTML5 doctype declaration.<br>
-<html>: The root element.<br>
-<head>: Contains metadata and external resource links.<br>
-<body>: The main content area.<br>
-<header>: Contains the website logo and navigation menu.<br>
-<section>: Represents different sections of the website.<br>
-<div>: Used to group and style content within sections.<br>
-h1, h2, <p>: Heading and paragraph elements for text content.<br>
-<img>: Displays images, such as sushi dishes.<br>
-<footer>: Contains the website footer.<br><p>
+!DOCTYPE html: HTML5 doctype declaration.<br>
+html: The root element.<br>
+head: Contains metadata and external resource links.<br>
+body: The main content area.<br>
+header: Contains the website logo and navigation menu.<br>
+section: Represents different sections of the website.<br>
+div: Used to group and style content within sections.<br>
+h1, h2, p: Heading and paragraph elements for text content.<br>
+img: Displays images, such as sushi dishes.<br>
+footer: Contains the website footer.<br><p>
 
   <h2>4. CSS Styling</h2>
 <P>The CSS file (style.css) defines the visual appearance and layout of the sushi website. Key CSS concepts and features used in this project include:
