@@ -32,7 +32,7 @@ Once the sushi website is running, you can navigate through different sections o
 <header>: Contains the website logo and navigation menu.<br>
 <section>: Represents different sections of the website.<br>
 <div>: Used to group and style content within sections.<br>
-<h1>, <h2>, <p>: Heading and paragraph elements for text content.<br>
+//<h1>, <h2>, <p>: Heading and paragraph elements for text content.<br>//
 <img>: Displays images, such as sushi dishes.<br>
 <footer>: Contains the website footer.<br><p>
 
