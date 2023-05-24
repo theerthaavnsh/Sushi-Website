@@ -1,7 +1,7 @@
 <html>
   <h1>Sushi Website Documentation</h1>
   <h2>Introduction</h2>
-<p>This documentation provides an overview and usage guide for the sushi website built using HTML, CSS, and JavaScript. The website incorporates custom animations using the AOS (Animate On Scroll) library to enhance the user experience. 
+<p>This documentation provides an overview and usage guide for the sushi website built using HTML, CSS, and JavaScript. The website incorporates custom animations using the AOS (Animate On Scroll) library to enhance the user experience. <br>
   Link : https://sushi-website-seven.vercel.app/ <br>
   </p>
 
